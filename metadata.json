@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA",
+  "description": "Modern AI-powered video creation studio that empowers everyday creators to turn ideas into video projects with simple guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
